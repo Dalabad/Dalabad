@@ -2,6 +2,8 @@
 
 I'm Daniel, Backend Developer, DevOps Engineer and Security Enthusiast from <img src="https://cdn-icons-png.flaticon.com/128/197/197571.png" width="13"/>  <b>Munich, Germany</b>. I am working as a Backend Teamlead & DevOps Techlead at <a href="https://github.com/myposter-de">myposter</a> and CTO at <a href="https://github.com/juniqe-com">juniqe</a>. Previously I co-founded <a href="https://github.com/crashtest-security">crashtest security</a>.
 
+![Dalabad's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=dalabad&show_icons=true&count_private=true&theme=onedark))
+
 ### Browsers
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
