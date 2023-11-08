@@ -9,6 +9,7 @@ I'm Daniel, Backend Developer, DevOps Engineer and Security Enthusiast from <img
 <div display="flex">
 <code><a href="https://www.php.net/" title="php" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></a></code>
 <code><a href="https://www.go.dev/" title="go" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" /></a></code>
+<code><a href="https://www.python.org/" title="python" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a></code>
 <code><a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a></code>
 <code><a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS & SASS" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a></code>
 <code><a href="https://developer.mozilla.org/docs/Glossary/HTML5" title="HTML" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a></code>
@@ -18,8 +19,8 @@ I'm Daniel, Backend Developer, DevOps Engineer and Security Enthusiast from <img
 ### Frameworks
 
 <div display="flex">
-<code><a href="https://vuejs.org/" title="Vue.js" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/vuejs/docs/36f2cff5fd0701384da1df57c12cbd6500fc12af/src/public/logo.svg"/></a></code>
-<code><a href="https://nuxt.com/" title="Nuxt" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://nuxt.com/assets/design-kit/logo/icon-green.svg"/></a></code>
+<code><a href="https://vuejs.org/" title="Vue.js" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/></a></code>
+<code><a href="https://nuxt.com/" title="Nuxt" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"/></a></code>
 <code><a href="https://symfony.com/" title="symfony" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" /></a></code>
 <code><a href="https://laravel.com/" title="laravel" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" /></a></code>
 </div>
@@ -30,7 +31,7 @@ I'm Daniel, Backend Developer, DevOps Engineer and Security Enthusiast from <img
 <code><a href="https://code.visualstudio.com/" title="Visual Studio Code" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a></code>
 <code><a href="https://jetbrains.com/" title="intellij" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" /></a></code>
 <code><a href="https://git-scm.com/" title="Git" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" /></a></code>
-<code><a href="https://github.com/" title="GitHub" referrerPolicy="no-referrer" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/14295796/186387264-69660e5f-ff4f-43d6-90f6-c6b9f7abe2d8.svg"><img height="30" src="https://user-images.githubusercontent.com/14295796/186387042-ca54395f-0809-41ec-81bc-d52cd709aba8.svg"></picture></a></code>
+<code><a href="https://github.com/" title="GitHub" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a></code>
 <code><a href="https://www.docker.com/" title="Docker" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></a></code>
 <code><a href="https://www.kubernetes.io/" title="kubernetes" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" /></a></code>
 <code><a href="https://www.redis.io/" title="redis" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" /></a></code>
