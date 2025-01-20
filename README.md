@@ -19,8 +19,9 @@ I'm Daniel, Backend Developer, DevOps Engineer and Security Enthusiast from <img
 <div display="flex">
 <code><a href="https://vuejs.org/" title="Vue.js" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/></a></code>
 <code><a href="https://nuxt.com/" title="Nuxt" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"/></a></code>
+<code><a href="https://react.dev/" title="React" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></a></code>
 <code><a href="https://symfony.com/" title="symfony" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" /></a></code>
-<code><a href="https://laravel.com/" title="laravel" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" /></a></code>
+<code><a href="https://laravel.com/" title="laravel" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" /></a></code>
 </div>
 
 ### Tools
@@ -33,8 +34,8 @@ I'm Daniel, Backend Developer, DevOps Engineer and Security Enthusiast from <img
 <code><a href="https://www.docker.com/" title="Docker" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></a></code>
 <code><a href="https://www.kubernetes.io/" title="kubernetes" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" /></a></code>
 <code><a href="https://www.redis.io/" title="redis" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" /></a></code>
-<code><a href="https://www.slack.com/" title="redis" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" /></a></code>
-<code><a href="https://www.nginx.com/" title="redis" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" /></a></code>
+<code><a href="https://www.slack.com/" title="slack" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" /></a></code>
+<code><a href="https://www.nginx.com/" title="nginx" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" /></a></code>
 <code><a href="https://www.blender.org/" title="blender" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" /></a></code>
 <code><a href="https://www.adobe.com/de/products/photoshop.html" title="photoshop" referrerPolicy="no-referrer" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" /></a></code>
 </div>
