@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-I'm Daniel, Backend Developer, DevOps Engineer and Security Enthusiast from <img src="https://cdn-icons-png.flaticon.com/128/197/197571.png" width="13"/>  <b>Munich, Germany</b>. I've been working as a Backend Teamlead, DevOps Techlead and CTO in the past. I also co-founded <a href="https://github.com/crashtest-security">crashtest security</a>.
+I'm Daniel, Backend Developer, DevOps Engineer and Security Enthusiast from <img src="https://cdn-icons-png.flaticon.com/128/197/197571.png" width="13"/>  <b>Munich, Germany</b>. I've been working as a Backend Teamlead, DevOps Techlead, Engineering Manager and CTO in the past. I also co-founded <a href="https://github.com/crashtest-security">crashtest security</a>.
 
 ### Core Technologies
 
